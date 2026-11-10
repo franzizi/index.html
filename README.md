@@ -815,23 +815,23 @@
                                 </div>
                                 <div>
                                     <div class="text-xs font-bold font-comic text-slate-600">Email Utama</div>
-                                    <div class="text-sm font-extrabold text-peanuts-black">ezekiel.jatiputra@gmail.com</div>
+                                    <div class="text-sm font-extrabold text-peanuts-black">franztio60@gmail.com</div>
                                 </div>
                             </div>
-                            <button onclick="copyToClipboard('ezekiel.jatiputra@gmail.com')" class="comic-btn bg-peanuts-yellow hover:bg-yellow-300 text-peanuts-black p-2 text-xs" title="Salin Email">
+                            <button onclick="copyToClipboard('franztio60@gmail.com')" class="comic-btn bg-peanuts-yellow hover:bg-yellow-300 text-peanuts-black p-2 text-xs" title="Salin Email">
                                 <i class="fa-regular fa-copy"></i>
                             </button>
                         </div>
 
                         <!-- Instagram Card -->
-                        <a href="https://instagram.com/ezekiel.jatiputra" target="_blank" rel="noopener" class="comic-box-sm p-4 bg-peanuts-bg flex items-center justify-between block group">
+                        <a href="https://instagram.com/fr_ztio" target="_blank" rel="noopener" class="comic-box-sm p-4 bg-peanuts-bg flex items-center justify-between block group">
                             <div class="flex items-center gap-3">
                                 <div class="w-10 h-10 rounded-lg bg-peanuts-purple text-white border-2 border-peanuts-black flex items-center justify-center text-lg">
                                     <i class="fa-brands fa-instagram"></i>
                                 </div>
                                 <div>
                                     <div class="text-xs font-bold font-comic text-slate-600">Instagram</div>
-                                    <div class="text-sm font-extrabold text-peanuts-black group-hover:text-peanuts-red transition-colors">@ezekiel.jatiputra</div>
+                                    <div class="text-sm font-extrabold text-peanuts-black group-hover:text-peanuts-red transition-colors">@fr_ztio</div>
                                 </div>
                             </div>
                             <i class="fa-solid fa-arrow-up-right-from-square text-peanuts-black text-xs mr-2"></i>
