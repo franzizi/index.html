@@ -902,10 +902,10 @@
             </div>
             
             <div class="flex items-center space-x-4 text-lg">
-                <a href="https://instagram.com/ezekiel.jatiputra" target="_blank" rel="noopener" class="hover:text-peanuts-yellow transition-colors" title="Instagram">
+                <a href="https://instagram.com/fr_ztio" target="_blank" rel="noopener" class="hover:text-peanuts-yellow transition-colors" title="Instagram">
                     <i class="fa-brands fa-instagram"></i>
                 </a>
-                <a href="mailto:ezekiel.jatiputra@gmail.com" class="hover:text-peanuts-red transition-colors" title="Email Direct">
+                <a href="mailto:franztio60@gmail.com" class="hover:text-peanuts-red transition-colors" title="Email Direct">
                     <i class="fa-solid fa-envelope"></i>
                 </a>
             </div>
